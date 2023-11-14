@@ -11,7 +11,7 @@ git clone https://github.com/cdsantosg/fastAPI.git
    cd fastAPI
    
 4. construir la imagen de Docker
-   sudo docker build -t fastapi .
+   sudo docker build -t fastAPI .
    
 6. Ejecutar el contenedor Docker
    sudo docker run -d --name fastapi -p 80:80 fastapi
