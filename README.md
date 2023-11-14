@@ -8,7 +8,7 @@ Servicio API REST que permite realizar las 4 operaciones matemáticas básicas e
 git clone https://github.com/cdsantosg/fastAPI.git
 
 2. Ingresar al directorio del proyecto
-   cd fastapi
+   cd fastAPI
    
 4. construir la imagen de Docker
    sudo docker build -t fastapi .
